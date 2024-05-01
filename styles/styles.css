@@ -24,3 +24,12 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+
+.erro {
+    color: red;
+    margin-top: 5px;
+}
+
+.bordaCor {
+    border-color: #D94937;
+}
